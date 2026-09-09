@@ -1,0 +1,1 @@
+export { default as sahaiLogo } from './Group_5.png';
